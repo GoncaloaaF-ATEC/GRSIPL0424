@@ -1,8 +1,9 @@
 """
 
-Lista - []
-Set -   {}
-Dict -
+Lista(array) - []
+Set          - {}
+Dict         - {:}
+tuplo        - ()
 
 
 """
