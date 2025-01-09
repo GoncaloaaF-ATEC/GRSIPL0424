@@ -16,6 +16,7 @@ ola_mundo()
 print("---" * 3)
 def ola_mundo():
     print("Ola mundo")
+
 def ola_mundo2(nome):
     print(f"Ola mundo, {nome}")
 
